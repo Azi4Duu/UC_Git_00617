@@ -14,3 +14,18 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+
+.login-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+}
+
+#mensagem {
+    color: red;
+}
